@@ -1,0 +1,19 @@
+mkdir folder
+cd e:\Data\Backups
+cd Git
+cd ..
+pwd
+ls
+ll
+touch file.txt
+rm file.txt
+rm -r folder
+mv file.txt folder
+reset
+
+git init
+git add file.txt
+git commit -m "comments"
+git status
+git diff
+
