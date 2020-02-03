@@ -22,5 +22,5 @@ git reset --hard HEAD^
 git reset --hard version
 git reflog
 git restore file / git checkout -- file
-git restore --staged file git reset HEAD file
+git restore --staged file / git reset HEAD file
 
