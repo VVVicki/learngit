@@ -23,4 +23,8 @@ git reset --hard version
 git reflog
 git restore file / git checkout -- file
 git restore --staged file / git reset HEAD file
-
+git push -u origin master
+git push origin master
+git remote add origin https://github.com/VVVicki/learngit.git
+git push -u origin master
+git remote set-url origin  .....
