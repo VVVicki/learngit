@@ -20,3 +20,5 @@ git log
 git log --pretty=oneline
 git reset --hard HEAD^
 git reflog
+git restore file
+git checkout file
