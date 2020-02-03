@@ -19,7 +19,8 @@ git diff
 git log
 git log --pretty=oneline
 git reset --hard HEAD^
+git reset --hard version
 git reflog
-git restore file
-git restore --staged file
-git checkout -- file
+git restore file / git checkout -- file
+git restore --staged file git reset HEAD file
+
