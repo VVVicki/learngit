@@ -34,3 +34,5 @@ git branch dev
 git checkout dev
 git branch
 git branch -d dev
+git switch -c dev
+git switch master
