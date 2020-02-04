@@ -45,3 +45,4 @@ git stash apply
 git stash drop
 git stash pop
 git cherry-pick
+git branch -D dev
