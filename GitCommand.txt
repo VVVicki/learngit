@@ -36,3 +36,4 @@ git branch
 git branch -d dev
 git switch -c dev
 git switch master
+git log --graph --pretty=oneline --abbrev-commit
