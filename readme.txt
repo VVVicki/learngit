@@ -10,3 +10,4 @@ test restore 1
 test restore 2
 test master and feature 1
 test dev
+test issue 101
