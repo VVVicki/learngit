@@ -37,3 +37,6 @@ git branch -d dev
 git switch -c dev
 git switch master
 git log --graph --pretty=oneline --abbrev-commit
+git merge dev
+git merge --no-ff -m "merge with no-ff" dev
+git stash
