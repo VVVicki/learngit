@@ -28,3 +28,8 @@ git push origin master
 git remote add origin https://github.com/VVVicki/learngit.git
 git push -u origin master
 git remote set-url origin  .....
+git clone .... 
+git checkout -b dev
+git branch dev
+git checkout dev
+git branch
