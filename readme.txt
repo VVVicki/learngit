@@ -8,4 +8,4 @@ test checkout 1
 test checkout 2
 test restore 1
 test restore 2
-test master
+test master and feature 1
